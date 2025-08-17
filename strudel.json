@@ -1,4 +1,12 @@
+
 {
   "_base": "https://raw.githubusercontent.com/loopfall/kicks/main/",
-  "kicks": ["kick1.wav","kick2.wav","kick3.wav","kick4.wav","kick5.wav"]
+  "kicks": {
+    "0": "kick1.wav",
+    "1": "kick2.wav", 
+    "2": "kick3.wav",
+    "3": "kick4.wav",
+    "4": "kick5.wav"
+  }
 }
+
